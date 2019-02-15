@@ -1,11 +1,11 @@
 Nama : Rian Maulana Kelas : XII RPL 2
 
-## Harus Menginstal
+## Yang Harus Diinstall
   * XAMPP Versi Terbaru
   * Composer
   * Postman
 
-## Cara Install
+## Cara Menginstall
   * Clone <a> https://github.com/rianmau-lana/belajar-lumen </a> ke komputer anda
   * Buka cmd / terminal, masuk ke file yang sudah di clone tadi di cmd dan masukkan <code> $ composer install </code>
   * Buat file bernama .env dengan menyalin dari file .env.example
